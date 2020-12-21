@@ -56,7 +56,7 @@ render() {
 
         <div className="main">
           <div className="bio">
-            <h2>About Jesse</h2>
+            <h2>About Jesse and Resume</h2>
             <p>After graduating from the University of South Carolina's College of Hospitality, I decided to pursue my dream of software development. Through General Assembly's Software Engineering Immserive program I have become a fullstack developer with experience utilizing the MERN stack.</p>
           </div>   
           <div className="tools">
